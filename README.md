@@ -35,6 +35,3 @@ The learning is divided into two main notebooks:
 - Pandas  
 - NumPy  
 - Jupyter Notebook  
-- Pandas  
-- NumPy  
-- Jupyter Notebook 
